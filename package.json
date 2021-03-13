@@ -1,6 +1,6 @@
 {
   "name": "top.gg-core",
-  "version": "1.0.0-a",
+  "version": "1.0.0-b",
   "description": "A top.gg API",
   "main": "index.js",
   "keywords": [
@@ -17,5 +17,16 @@
     "node-fetch": "^2.6.1",
     "querystring": "^0.2.1",
     "raw-body": "^2.4.1"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngeloCore/top.gg-core.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AngeloCore/top.gg-core/issues"
+  },
+  "homepage": "https://github.com/AngeloCore/top.gg-core#readme"
 }
