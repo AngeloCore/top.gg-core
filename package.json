@@ -1,0 +1,21 @@
+{
+  "name": "top.gg-core",
+  "version": "1.0.0-a",
+  "description": "A top.gg API",
+  "main": "index.js",
+  "keywords": [
+    "top.gg",
+    "topgg",
+    "src",
+    "angeloii"
+  ],
+  "author": "Angelo II#0007",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "events": "^3.3.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "querystring": "^0.2.1",
+    "raw-body": "^2.4.1"
+  }
+}
